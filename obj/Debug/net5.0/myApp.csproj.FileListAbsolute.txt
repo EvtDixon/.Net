@@ -1,0 +1,15 @@
+/Volumes/Project/Dot Net/myApp/bin/Debug/net5.0/myApp.deps.json
+/Volumes/Project/Dot Net/myApp/bin/Debug/net5.0/myApp.runtimeconfig.json
+/Volumes/Project/Dot Net/myApp/bin/Debug/net5.0/myApp.runtimeconfig.dev.json
+/Volumes/Project/Dot Net/myApp/bin/Debug/net5.0/myApp.dll
+/Volumes/Project/Dot Net/myApp/bin/Debug/net5.0/ref/myApp.dll
+/Volumes/Project/Dot Net/myApp/bin/Debug/net5.0/myApp.pdb
+/Volumes/Project/Dot Net/myApp/obj/Debug/net5.0/myApp.csprojAssemblyReference.cache
+/Volumes/Project/Dot Net/myApp/obj/Debug/net5.0/myApp.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Project/Dot Net/myApp/obj/Debug/net5.0/myApp.AssemblyInfoInputs.cache
+/Volumes/Project/Dot Net/myApp/obj/Debug/net5.0/myApp.AssemblyInfo.cs
+/Volumes/Project/Dot Net/myApp/obj/Debug/net5.0/myApp.csproj.CoreCompileInputs.cache
+/Volumes/Project/Dot Net/myApp/obj/Debug/net5.0/myApp.dll
+/Volumes/Project/Dot Net/myApp/obj/Debug/net5.0/ref/myApp.dll
+/Volumes/Project/Dot Net/myApp/obj/Debug/net5.0/myApp.pdb
+/Volumes/Project/Dot Net/myApp/obj/Debug/net5.0/myApp.genruntimeconfig.cache
